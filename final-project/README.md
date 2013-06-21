@@ -1,1 +1,1 @@
-Link to the final-project's site : alec86.github.io
+Link to the final-project's site : http://alec86.github.io
